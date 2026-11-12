@@ -14,18 +14,18 @@ and leaving a codebase easier to work in than I found it.
 
 ## What I work on
 
-**Frontend architecture**
+**Frontend architecture**\
 Angular (v11–22, Signals, zoneless), TypeScript, RxJS, PrimeNG, SCSS and design tokens.
 Shared component libraries, themeable layout systems, and large version migrations.
 
-**Backend and cloud**
+**Backend and cloud**\
 C#, .NET, ASP.NET Core Web API on AWS Lambda, SQL Server and T-SQL, DynamoDB single-table design.
 Event-driven services on AWS: AppSync GraphQL subscriptions and SQS FIFO queues.
 
-**Geospatial**
+**Geospatial**\
 MapLibre GL JS with AWS Location Service: device mapping, coverage polygons, interactive overlays.
 
-**Testing**
+**Testing**\
 Vitest, Jasmine, Playwright, NUnit, Moq.
 
 ---
